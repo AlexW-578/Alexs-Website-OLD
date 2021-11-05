@@ -1,6 +1,6 @@
 ## Welcome to Alex's Webiste
 
-[Link](/index2.html)
+[GitHub Flavored Markdown](/index2.html)
 
 
 ### Markdown
