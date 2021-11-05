@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-# Welcome to Alex`s Website
-
-##Alex`s Game Update Server
-[Link]()
-=======
-## Welcome to Alex's Webiste
-
-
-
->>>>>>> ad0adcebe9bc1610f314d483e6397bb87aa331c2
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -33,7 +21,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-<<<<<<< HEAD
-=======
-
->>>>>>> ad0adcebe9bc1610f314d483e6397bb87aa331c2
