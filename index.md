@@ -1,13 +1,14 @@
 ## Welcome to Alex's Webiste
 
-[GitHub Flavored Markdown](/index2.html)
 
 
-### Markdown
+[Random Spinner for a Game](/index2.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+### Welcome to Alex’s Webiste
+###[Actual Website](/index.html)
+
+```
 Syntax highlighted code block
 
 # Header 1
@@ -24,6 +25,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](/index2.html).
 
