@@ -6,7 +6,7 @@
 
 
 ### Welcome to Alex’s Webiste
-###[Actual Website](/index.html)
+###[VRChat Stuff](/VRChat.md)
 
 ```
 Syntax highlighted code block
