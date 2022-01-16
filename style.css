@@ -1,5 +1,9 @@
+*{
+    background: #363738;
+}
 h1 {
-    text-align: center
+    text-align: center;
+    color:whitesmoke;
 }
 
 #smallText {
@@ -30,6 +34,19 @@ h1 {
     display: compact;
 }
 #Button:hover{
+    background: green;
+    color: black;
+}
+#mainButton {
+    alignment: center;
+    padding: 0.5rem;
+    background: #0073ff;
+    color: black;
+    border-radius: 10rem;
+    text-decoration: none;
+    display: compact;
+}
+#mainButton:hover{
     background: green;
     color: black;
 }
