@@ -5,13 +5,13 @@ This page is dedicated to all the creation that we have made for VRChat.
 
 ###Photo booth
 
-![image](https://d348imysud55la.cloudfront.net/thumbnails/file_0add2c0a-7781-4abf-8368-1d68b9316d50.07ae49f0e67add1d77b8585b1c33f6bb22c64e2eac775238a37c0f8039f62279.1.thumbnail-256.png)
+![image]()
 
 A Simple Photo booth world that is constantly updated when we get the time
 
 ~~(which is like never)~~
 
-[Launch World](vrchat://launch?ref=AlexW-578.co.uk&id=wrld_aa170c02-dfaf-431b-bb5d-da18a6b00789)
+[Launch World]()
 
 [Launch VrChat Page](https://vrchat.com/home/launch?worldId=wrld_aa170c02-dfaf-431b-bb5d-da18a6b00789)
 

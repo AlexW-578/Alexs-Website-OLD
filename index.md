@@ -6,7 +6,7 @@
 
 
 ### Welcome to Alex’s Webiste
-###[VRChat Stuff](/VRChat.md)
+###[VRChat Stuff](/VR.md)
 
 ```
 Syntax highlighted code block
