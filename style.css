@@ -1,9 +1,51 @@
-*{
-    background: #363738;
+* {
+    box-sizing: border-box;
+    background: #adadad;
 }
-h1 {
+
+.header {
+    padding: 80px;
     text-align: center;
-    color:whitesmoke;
+    background: rgba(0, 0, 0, 0.66);
+    color: #226400;
+    font-size: 30px;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+.header p{
+    font-size: 14px;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #363738;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+
+.navbar a.right {
+    float: right;
+}
+
+
+.navbar a:hover {
+    background-color: #505050;
+    color: #ffffff;
+}
+
+.navbar a.active {
+    background-color: #666;
+    color: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 
 #smallText {
@@ -20,10 +62,12 @@ h1 {
     text-decoration: none;
     display: compact;
 }
-#ButtonLaunch:hover{
+
+#ButtonLaunch:hover {
     background: green;
     color: yellow;
 }
+
 #Button {
     alignment: left;
     padding: 0.5rem;
@@ -33,10 +77,12 @@ h1 {
     text-decoration: none;
     display: compact;
 }
-#Button:hover{
+
+#Button:hover {
     background: green;
     color: black;
 }
+
 #mainButton {
     alignment: center;
     padding: 0.5rem;
@@ -46,7 +92,8 @@ h1 {
     text-decoration: none;
     display: compact;
 }
-#mainButton:hover{
+
+#mainButton:hover {
     background: green;
     color: black;
 }
