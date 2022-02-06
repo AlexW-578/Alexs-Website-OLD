@@ -6,7 +6,7 @@
     padding: 80px;
     text-align: center;
     background: rgba(0, 0, 0, 0.66);
-    color: #226400;
+    color: #020f23;
     font-size: 30px;
 }
 
@@ -103,4 +103,11 @@ body {
 #mainButton:hover {
     background: green;
     color: black;
+}
+
+.e6{
+    background-color: rgb(17, 38, 69);
+    background-image:url("Images/e621.png");
+    background-repeat: repeat-x;
+    color:rgb(232, 230, 227) ;
 }
