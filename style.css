@@ -60,8 +60,8 @@ body {
     color: darkgrey;
 }
 
-#ButtonLaunch {
-    alignment: left;
+.ButtonLaunch {
+    alignment: center;
     padding: 0.5rem;
     background: grey;
     color: white;
@@ -70,22 +70,23 @@ body {
     display: compact;
 }
 
-#ButtonLaunch:hover {
+.ButtonLaunch:hover {
     background: green;
     color: yellow;
 }
 
-#Button {
-    alignment: left;
-    padding: 0.5rem;
+.Button {
+
+    padding: 1rem 0 .5rem;
     background: lightgreen;
     color: black;
     border-radius: 10rem;
     text-decoration: none;
     display: compact;
+    max-width: 30rem;
 }
 
-#Button:hover {
+.Button:hover {
     background: green;
     color: black;
 }
@@ -111,4 +112,9 @@ body {
     background-image:url("Images/e621.png");
     background-repeat: repeat-x;
     color:rgb(232, 230, 227) ;
+}
+
+.topic {
+    max-width: 30rem;
+    padding: 1rem 0 .5rem;
 }
